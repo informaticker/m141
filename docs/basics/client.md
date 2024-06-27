@@ -40,12 +40,12 @@
     - [ ] ping 139.79.124.97
 5.  Wie prüfen Sie, ob der DB-Server auf Adresse 139.79.124.97 läuft?
 
-    mysqladmin -h 139.79.124.97 -u [Benutzername] -p ping
-    Oder: Versuch einer Verbindung mit mysql -h 139.79.124.97 -u [Benutzername] -p
+    ``mysqladmin -h 139.79.124.97 -u [Benutzername] -p ping``
+    Oder: Versuch einer Verbindung mit ``mysql -h 139.79.124.97 -u [Benutzername] -p``
 
 6.  Welcher Befehl führt das SQL-Skript xy.sql auf die DB hotel auf Adresse 139.79.124.97 aus?
 
-    mysql -h 139.79.124.97 -u [Benutzername] -p hotel < xy.sql
+    ``mysql -h 139.79.124.97 -u [Benutzername] -p hotel < xy.sql``
 
 7.  Wie beeinflusst der Parameter --opt beim Erstellen eines Backup das Tabellenlocking?
 
