@@ -111,5 +111,6 @@
 14.  Wie schalten Sie den Query Cache ein bzw. aus?
 
         In neueren MySQL-Versionen (ab 8.0) wurde der Query Cache entfernt. In älteren Versionen:
-Einschalten: SET GLOBAL query_cache_type = 1;
-Ausschalten: SET GLOBAL query_cache_type = 0;
+Einschalten: ``SET GLOBAL query_cache_type = 1;``
+
+Ausschalten: ``SET GLOBAL query_cache_type = 0;``
