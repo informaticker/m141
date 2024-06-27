@@ -18,3 +18,11 @@
 
 ## Glossar
 Glossar mit allen Begriffen ist [hier](glossar.md) zu finden.
+
+## TLDR
+Ein TLDR ist [hier](TLDR.md) zu finden.
+
+## Quiz
+Repetition von ein paar Fragen aus dem Schul-Repo (und auch ein paar neue) ist [hier](quiz/quizes.md) zu finden.
+
+Lösungen dazu sind [hier](quiz/solutions.md).
