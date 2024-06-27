@@ -1,5 +1,5 @@
 # M141 TLDR 
-## you should still read the docs :( 
+###### you should still read the docs :( 
 
 ## Encoding
 - Encoding is an agreement between user and system, not automatically detected
@@ -98,3 +98,4 @@
 - Use `LOAD DATA INFILE` for faster data loading
 - Regularly backup your database
 - Keep MySQL and its components updated for security and performance
+
