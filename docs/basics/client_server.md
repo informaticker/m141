@@ -5,9 +5,10 @@
 
 2.  Weshalb benutzt man MS Access z.B. zusammen mit einem MySQL-Server?
 
-    MS Access wird als Frontend für Benutzeroberfläche und Berichte genutzt, während MySQL als robuster Backend-Datenspeicher dient. Dies kombiniert die Benutzerfreundlichkeit von Access mit der Leistungsfähigkeit und Mehrbenutzer-Fähigkeit von MySQL.
+    MS Access wird als Frontend für Benutzeroberfläche und Berichte genutzt, während MySQL als robuster Backend-Datenspeicher dient.
+    
 
-3.  Wozu kann der DB-Client mysqlshow verwendet werden?
+4.  Wozu kann der DB-Client mysqlshow verwendet werden?
 
     - [ ] Backup erstellen
 
