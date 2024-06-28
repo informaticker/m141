@@ -21,14 +21,14 @@
 
 3.  Was bewirkt der Befehl 'mysqldump -h 139.79.124.97 hotel \> datei.txt'?
 
-    - [ ] Backup der DB hotel in die Datei datei.txt auf Adresse 139.79.124.97
+    - [x] Backup der DB hotel in die Datei datei.txt auf Adresse 139.79.124.97
 
     - [x] Backup der angegebenen DB auf dem Server mit der IP-Adresse 139.79.124.97
 
     - [ ] Restore der Datenbank hotel auf dem Server mit der Adresse 139.79.124.97
 
     - [ ] Ausführen des SQL-Skripts datei.txt auf Adresse 139.79.124.97 auf die DB hotel
-
+***Note: I think the answers 1 & 2 are written very weirdly, as both are correct depending on how you read them***
 4.  Wie greifen Sie vom Konsolenfenster auf einen DB-Server mit Adresse 139.79.124.97 zu?
 
     - [ ] mysqladmin -h 139.79.124.97
