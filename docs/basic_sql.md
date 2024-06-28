@@ -52,3 +52,7 @@ CREATE TABLE BESTELLUNGEN (
         gesamtbetrag DECIMAL(10,2)
     ) ENGINE=InnoDB;
 ```
+
+6.  Beschreiben Sie den Begriff der MySQL-Testdatenbank.
+
+Die MySQL-Testdatenbank ist eine vordefinierte Datenbank namens "test", die standardmäßig bei der MySQL-Installation erstellt wird. Sie dient zum Testen und Erlernen von MySQL-Funktionen ohne Risiko für produktive Daten.
