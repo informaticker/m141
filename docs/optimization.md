@@ -86,12 +86,12 @@
 
 10.  Beschreiben Sie kurz, wie Sie den Befehl EXPLAIN verwenden.
 
-        EXPLAIN wird vor einem SELECT-Befehl verwendet, um den Ausführungsplan der Abfrage anzuzeigen. Beispiel: EXPLAIN SELECT * FROM users WHERE id = 1;
+        ``EXPLAIN`` wird vor einem ``SELECT``-Befehl verwendet, um den Ausführungsplan der Abfrage anzuzeigen. Beispiel: ``EXPLAIN SELECT * FROM users WHERE id = 1;``
       
 
 11.  Wozu wird der Befehl OPTIMIZE TABLE angewendet?
 
-        OPTIMIZE TABLE wird verwendet, um den Speicherplatz zu defragmentieren und die Datenstrukturen von Tabellen zu optimieren, insbesondere nach vielen Einfüge-, Update- oder Löschvorgängen.
+        ``OPTIMIZE TABLE`` wird verwendet, um den Speicherplatz zu defragmentieren und die Datenstrukturen von Tabellen zu optimieren, insbesondere nach vielen Einfüge-, Update- oder Löschvorgängen.
       
 
 12.  Wie werden SELECT-Befehle optimiert?
