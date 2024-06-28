@@ -28,6 +28,7 @@
     - [ ] Restore der Datenbank hotel auf dem Server mit der Adresse 139.79.124.97
 
     - [ ] Ausführen des SQL-Skripts datei.txt auf Adresse 139.79.124.97 auf die DB hotel
+
 ***Note: I think the answers 1 & 2 are written very weirdly, as both are correct depending on how you read them***
 4.  Wie greifen Sie vom Konsolenfenster auf einen DB-Server mit Adresse 139.79.124.97 zu?
 
