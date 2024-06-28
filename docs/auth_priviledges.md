@@ -73,17 +73,13 @@
 ```sql
 REVOKE SELECT, INSERT ON database_name.table_name FROM 'username'@'localhost';
 ```
-10.  Beschreiben Sie den Begriff der MySQL-Testdatenbank.
-
-Die MySQL-Testdatenbank ist eine vordefinierte Datenbank namens "test", die standardmäßig bei der MySQL-Installation erstellt wird. Sie dient zum Testen und Erlernen von MySQL-Funktionen ohne Risiko für produktive Daten.
       
-
-11.  Mit welchem Befehl ändern Sie das Passwort von Benutzer Meier auf "abc123"?
+10.  Mit welchem Befehl ändern Sie das Passwort von Benutzer Meier auf "abc123"?
 ```sql
 ALTER USER 'Meier'@'localhost' IDENTIFIED BY 'abc123';
 ```
 
-12. Geben Sie eine Erklärung für folgende Fehlermeldung.  
+11. Geben Sie eine Erklärung für folgende Fehlermeldung.  
     
 ```sql
 GRANT USAGE ON \*.\* TO abc IDENTIFIED BY 'a12';  
@@ -93,7 +89,7 @@ ERROR 1045: Access denied for user: '@127.0.0.1'
 Der aktuelle Benutzer hat nicht die erforderlichen Rechte, um GRANT-Befehle auszuführen. 
       
 
-13.  Korrigieren Sie den folgenden Befehl:  
+12.  Korrigieren Sie den folgenden Befehl:  
     
 ```sql 
 REVOKE ALL FROM ''@localhost;  
